@@ -19,5 +19,11 @@ Sorting rows in Excel is a really useful task, but doing it incorrectly can lead
 How Dates Work in Excel
 -----------------------
 
+In my talk on predicting DINC items, I subtracted one date from another to find the number of days between two dates. There are different ways to get that result in Excel. Here's more to read on this topic:
+
+-   [How to use the date format](https://support.office.com/en-us/article/Format-a-date-the-way-you-want-8E10019E-D5D8-47A1-BA95-DB95123D273E)
+-   [Multiple ways to find the days between two dates](https://www.online-tech-tips.com/ms-office-tips/subtract-dates-in-excel/)
+-   [Microsoft's tutorial on using the `DATEDIF` formula](https://support.office.com/en-us/article/calculate-the-difference-between-two-dates-8235e7c9-b430-44ca-9425-46100a162f38)
+
 The Differences Between Excel and Coding
 ----------------------------------------
