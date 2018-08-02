@@ -3,6 +3,8 @@ Excel Resources
 Ryan Estrellado
 2018-08-02
 
+These are supporting materials for my talk on forecasting data identified non-compliance (DINC) at the [2018 CEDR conference](https://www.cedrconf.org/). I'll be updating this document as we get closer to the event.
+
 Basic Formulas
 --------------
 
@@ -27,3 +29,10 @@ In my talk on predicting DINC items, I subtracted one date from another to find 
 
 The Differences Between Excel and Coding
 ----------------------------------------
+
+If you like working with data in Excel, you may find yourself wanting to explore programming in a language like R or Python. If working with data in Excel is like cooking a caserole, then coding to work with data is like writing a recipe. Let's keep go with the cooking analogy and look at some advantages:
+
+-   When you want to change something in your result, you just need to change the recipe
+-   If you've made a mistake, you can always review every line of your recipe to identify the problem area
+-   Recipes can be shared with others so they can also make your data caserole. Or they can improve your recipe and share it back with you
+-   Functional programming skills allow you to take a recipe and make not just one caserole, but hundreds or thousands at once
