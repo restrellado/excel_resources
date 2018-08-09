@@ -3,9 +3,10 @@ Predicting Data Identified Non-Compliance
 Ryan Estrellado
 8/9/2018
 
-Predicting Data Identified Non-Compliance Ryan Estrellado CEDR 2018 Conference
+Predicting Data Identified Non-Compliance
+=========================================
 
-This document has information used to support my presentation on predicting data identified non-compliance (DINC). It’s a big topic and I can’t cover everything I want to, so I hope this helps supplement the hour-long talk. This document will change over time, so you can visit the online version on my GitHub page for a more recent version. If you have feedback or any questions, please contact me at <restrellado@sdcoe.net> or call me at 619-470-5233. - Ryan
+This document has information used to support my CEDR 2018 presentation on predicting data identified non-compliance (DINC). It’s a big topic and I can’t cover everything I want to, so I hope this helps supplement the hour-long talk. This document will change over time, so you can visit the online version on my GitHub page for a more recent version. If you have feedback or any questions, please contact me at <restrellado@sdcoe.net> or call me at 619-470-5233. - Ryan
 
 ### Support Materials
 
