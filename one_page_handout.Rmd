@@ -7,15 +7,15 @@ output: github_document
 
 # Predicting Data Identified Non-Compliance
 
-This document has information used to support my CEDR 2018 presentation on predicting data identified non-compliance (DINC). It’s a big topic and I can’t cover everything I want to, so I hope this helps supplement the hour-long talk. This document will change over time, so you can visit the online version on my GitHub page for a more recent version. If you have feedback or any questions, please contact me at restrellado@sdcoe.net or call me at 619-470-5233. - Ryan
+This document has information used to support my CEDR 2018 presentation on predicting data identified non-compliance (DINC). It’s a big topic and I can’t cover everything I want to, so I hope this helps supplement the hour-long talk. This document will change over time, so you can visit the online version on my [GitHub page](https://github.com/restrellado/excel_resources/blob/master/one_page_handout.md) for a more recent version. If you have feedback or any questions, please contact me at [restrellado@sdcoe.net](mailto:restrellado@sdcoe.net) or call me at 619-470-5233. - Ryan
 
 ### Support Materials
 
-The California Department of Education’s CASEMIS Technical Assistance Guide defines every CASEMIS field, including the ones we use to make our DINC predictions. You can download the latest version of the CASEMIS TAG on the CDE website. 
+The California Department of Education’s [CASEMIS Technical Assistance Guide](https://www.cde.ca.gov/sp/se/ds/documents/dec2017casemistag.doc) defines every CASEMIS field, including the ones we use to make our DINC predictions. You can download the latest version of the CASEMIS TAG on the CDE website. 
 
-Here is a link to the slides, excel spreadsheets, and screenshots I used during my presentation. 
+[Here is a link](https://www.dropbox.com/sh/0autz417lgoqbk0/AACuVFYObgf2bBYUe1tkyQjva?dl=0) to the slides, excel spreadsheets, and screenshots I used during my presentation. 
 
-This is a link to some Excel resources I gathered that teach you operations I used in my presentation. These are just a few I found- there is a lot of online reading available about Excel. If you find others, feel free to email me and I can add them to the document. 
+[This is a link](https://github.com/restrellado/excel_resources/blob/master/excel_resources.md) to some Excel resources I gathered that teach you operations I used in my presentation. These are just a few I found- there is a lot of online reading available about Excel. If you find others, feel free to email me and I can add them to the document. 
 
 ### Summary of DINC Criteria 
 
@@ -38,4 +38,4 @@ Improving your predictions is a process. These practices will improve your craft
 
 ### Next Steps
 
-Consider learning how to code in a language like R or Python to make your procedures faster, more reproducible, shareable, and scalable. 
+Consider learning how to code in a language like [R](https://www.r-project.org/about.html) or [Python](https://www.python.org/) to make your procedures faster, more reproducible, shareable, and scalable. 
