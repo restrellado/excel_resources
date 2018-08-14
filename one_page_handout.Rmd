@@ -5,8 +5,6 @@ date: "8/9/2018"
 output: github_document
 ---
 
-# Predicting Data Identified Non-Compliance
-
 This document has information used to support my CEDR 2018 presentation on predicting data identified non-compliance (DINC). It’s a big topic and I can’t cover everything I want to, so I hope this helps supplement the hour-long talk. This document will change over time, so you can visit the online version on my [GitHub page](https://github.com/restrellado/excel_resources/blob/master/one_page_handout.md) for a more recent version. If you have feedback or any questions, please contact me at [restrellado@sdcoe.net](mailto:restrellado@sdcoe.net) or call me at 619-470-5233. - Ryan
 
 ### Support Materials
